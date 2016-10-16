@@ -12,8 +12,7 @@
 	<mvc:resources mapping="/media/**" location="/media/" />
 	<mvc:annotation-driven />
 	  
-	<!-- portal权限拦截 -->
-	
+
 	<context:component-scan base-package="com.sunshine.tiantong">
 		<context:include-filter type="annotation"
 			expression="org.springframework.stereotype.Controller" />

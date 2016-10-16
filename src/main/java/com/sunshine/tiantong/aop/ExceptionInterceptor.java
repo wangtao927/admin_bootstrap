@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 import java.lang.reflect.Method;
 
 /**
- * Created by zhuq on 2016/6/3.
+ *
  */
 public class ExceptionInterceptor {
 
